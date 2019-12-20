@@ -1,3 +1,7 @@
+### Latihan-Python = Ahmad Zuhad Asy'ari ###
+		### Semoga Bermanfaat ###
+		#########################
+		
 # import library untuk langsung menyudahi sistem
 import sys
 
